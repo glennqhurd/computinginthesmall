@@ -1,5 +1,5 @@
 # Computing in the Small $\pi$ Day
-Please click on this link to open the bnus $\pi$ day notebook.  We will not have time to cover this in class, but your teachers will be ahppy to field any questions.  It is 100% optional (as if anything was mandatory :-)) but we couldn't resist taking advantage o fthe holiday.
+Please click on this link to open the bonus $\pi$ day notebook.  We will not have time to cover this in class, but your teachers will be happy to field any questions.  It is 100% optional (as if anything was mandatory :-)) but we couldn't resist taking advantage of the holiday.
 
 Goals for [Pi Day](https://www.piday.org/):
 
